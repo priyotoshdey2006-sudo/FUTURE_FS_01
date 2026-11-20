@@ -1,16 +1,80 @@
-# React + Vite
+# Priyotosh Dey | Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive personal portfolio website built with **React.js and Vite** to showcase my skills, projects, education, and professional journey as an aspiring AI/ML Engineer.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+Coming soon...
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- Responsive and modern UI
+- Personal introduction and About section
+- Education and technical skills
+- Project showcase
+- Resume download
+- Contact form with email notifications
+- SEO-friendly structure
 
-## React Compiler
+## 🛠️ Tech Stack
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Lucide React
+- FormSubmit (contact form)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Project Structure
+```text
+FUTURE_FS_01/
+├── public/
+│   ├── images/
+│   └── resume/
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+├── index.html
+├── package.json
+└── README.md
+```
 
-## Expanding the Oxlint configuration
+## 🚀 Run Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/priyotoshdey2006-sudo/FUTURE_FS_01.git
+   ```
+
+2. Open the project:
+   ```bash
+   cd FUTURE_FS_01
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL shown in your terminal.
+
+## 👨‍💻 About Me
+
+**Priyotosh Dey**  
+B.Tech CSE (Artificial Intelligence & Machine Learning)  
+Dr. B.C. Roy Engineering College
+
+- GitHub: [priyotoshdey2006-sudo](https://github.com/priyotoshdey2006-sudo)
+- Email: priyotoshdey21@gmail.com
+
+## 📌 Project Information
+- **Internship:** Future Interns
+- **Task:** FS Task 01 – Personal Portfolio Website
+
+---
+
+⭐ If you like this project, consider giving it a star!
